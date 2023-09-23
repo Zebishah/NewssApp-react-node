@@ -1,0 +1,212 @@
+{
+  "status": "ok",
+  "totalResults": 68,
+  "articles": [
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Rebecca Feng, Weilun Soon",
+      "title": "Investors Fear China's 'Lehman Moment' Is Looming - The Wall Street Journal",
+      "description": "Troubles at a big trust company are making investors worry about financial contagion from property developers’ distress",
+      "url": "https://www.wsj.com/finance/investing/investors-fear-chinas-lehman-moment-is-looming-4364855d",
+      "urlToImage": "https://images.wsj.net/im-837775/social",
+      "publishedAt": "2023-08-18T09:43:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Huw Jones",
+      "title": "GLOBAL MARKETS-Shares hit two-month low as fading Fed cut hope hammers bonds - Yahoo Finance",
+      "description": "Global shares hit two-month lows on Friday while US government bond yields remained near recent 16-year highs as investors bet on interest rates staying...",
+      "url": "https://finance.yahoo.com/news/global-markets-shares-hit-two-084449208.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Td7FlIF6NL6pjShvRUGhAw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-07/49be7d60-2d48-11ee-9fea-e3ca7a3411e8",
+      "publishedAt": "2023-08-18T08:44:49Z",
+      "content": "Global shares hit two-month lows on Friday while US government bond yields remained near recent 16-year highs as investors bet on interest rates staying elevated for longer, with worries over China's… [+4798 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "Retired judge sues HECO after house is destroyed by Maui fires - KITV",
+      "description": null,
+      "url": "https://www.youtube.com/watch?v=zc3kEj06xlk",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18T08:42:44Z",
+      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
+    },
+    {
+      "source": { "id": "the-washington-post", "name": "The Washington Post" },
+      "author": "Kelsey Ables, Christian Shepherd, Theodora Yu",
+      "title": "China’s Evergrande files for Chapter 15 bankruptcy - The Washington Post",
+      "description": "The heavily indebted company has become an emblem of China’s real estate crisis. It is seeking protection from creditors while it makes efforts to restructure.",
+      "url": "https://www.washingtonpost.com/world/2023/08/18/evergrande-bankruptcy-chapter-15-china/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/U3GHTSXNW7H6TLXIXUXXYIH6CE_size-normalized.JPG&w=1440",
+      "publishedAt": "2023-08-18T07:00:00Z",
+      "content": "Comment on this story\r\nComment\r\nEvergrande, the heavily indebted Chinese property giant, filed for bankruptcy protection Thursday in New York, raising concerns about ripple effects as China faces slo… [+2700 chars]"
+    },
+    {
+      "source": { "id": null, "name": "KTVU San Francisco" },
+      "author": "Jana Katsuyama",
+      "title": "Family says son has disappeared just weeks after starting job at Netflix - KTVU FOX 2 San Francisco",
+      "description": "Mehret Hana Beyene burst into tears Thursday as she explained how her husband and eldest son Yosief Kidane had flown to the Bay Area from New York to try and find their other son Yohanes Kidane, 22, of San Jose, who they say disappeared Monday and was last se…",
+      "url": "https://www.ktvu.com/news/family-says-son-has-disappeared-just-weeks-after-starting-job-at-netflix",
+      "urlToImage": "https://images.foxtv.com/static.ktvu.com/www.ktvu.com/content/uploads/2023/08/1280/720/11-MISSING-TECH-WORKER_00.01.44.54.jpg?ve=1&tl=1",
+      "publishedAt": "2023-08-18T06:52:50Z",
+      "content": "SAN FRANCISCO - Mehret Hana Beyene burst into tears Thursday as she explained how her husband and eldest son Yosief Kidane had flown to the Bay Area from New York to try and find their other son Yoha… [+3110 chars]"
+    },
+    {
+      "source": { "id": "cnn", "name": "CNN" },
+      "author": "Livvy Doherty, Michelle Toh",
+      "title": "H&M will 'phase out' operations in Myanmar after more worker abuse allegations - CNN",
+      "description": "H&M has decided to stop operating in Myanmar following an increase in allegations of labor abuses at garment factories in the country.",
+      "url": "https://www.cnn.com/2023/08/18/business/hm-myanmar-operations-phase-out-intl-hnk/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230817150106-h-m-file.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-08-18T04:51:00Z",
+      "content": "H&amp;M has decided to stop operating inMyanmar following an increase in allegations of labor abuses at garment factories in the country.\r\nThe worlds second largest fashion retailer told CNN on Thurs… [+4529 chars]"
+    },
+    {
+      "source": { "id": "bloomberg", "name": "Bloomberg" },
+      "author": null,
+      "title": "Bitcoin Plunge Spurs Liquidations as SpaceX's Token Sale Weighs - Bloomberg",
+      "description": null,
+      "url": "https://www.bloomberg.com/news/articles/2023-08-18/bitcoin-plunge-spurs-liquidations-as-spacex-s-token-sale-weighs",
+      "urlToImage": null,
+      "publishedAt": "2023-08-18T04:33:32Z",
+      "content": "To continue, please click the box below to let us know you're not a robot."
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "First Look: 2024 Acura ZDX Electric SUV | An Electrfiying Comeback | Interior, Performance & More! - Edmunds Cars",
+      "description": "The Acura ZDX is back, though only in name. Instead of a funky-looking slant-backed SUV, the 2024 Acura ZDX is a more traditionally shaped all-electric SUV w...",
+      "url": "https://www.youtube.com/watch?v=OzfoVIo5o3Y",
+      "urlToImage": "https://i.ytimg.com/vi/OzfoVIo5o3Y/maxresdefault.jpg",
+      "publishedAt": "2023-08-18T04:00:26Z",
+      "content": null
+    },
+    {
+      "source": { "id": "cbs-news", "name": "CBS News" },
+      "author": "John Dias, Dave Carlin",
+      "title": "New Yorkers drawing a line in the sand over congestion pricing - CBS New York",
+      "description": "Protests on both sides of the issue took place Thursday, while some city leaders questioned the plan's validity.",
+      "url": "https://www.cbsnews.com/newyork/news/congestion-pricing-mta-officials-oversight-hearing-new-york-city-council/",
+      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2023/05/09/def8193b-3ab4-4a03-a057-3a788195a2a3/thumbnail/1200x630/b2a7193c3aa64a4835c465f9a1863fb5/gettyimages-1419693885.jpg?v=0b4ae642db52799a178d90d83603a9dc",
+      "publishedAt": "2023-08-18T03:56:00Z",
+      "content": "NEW YORK -- Controversial congestion pricing took center stage again Thursday.\r\nAs the MTA inches closer to rolling it out, things are getting heated between those who support it and those who are ag… [+3337 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "China Targets Yuan Bears With Strongest Fix - Bloomberg Television",
+      "description": "China set the strongest and firmest yuan fix yet, relative to estimates. David Finnerty reports on Bloomberg Television. --------Follow Bloomberg for busines...",
+      "url": "https://www.youtube.com/watch?v=jJvpP_09wxY",
+      "urlToImage": "https://i.ytimg.com/vi/jJvpP_09wxY/maxresdefault.jpg",
+      "publishedAt": "2023-08-18T03:03:48Z",
+      "content": null
+    },
+    {
+      "source": { "id": "the-hill", "name": "The Hill" },
+      "author": "Tara Suter",
+      "title": "Thirty-year fixed-rate mortgage rate surges to highest in two decades - The Hill",
+      "description": "The average 30-year fixed-rate mortgage rate is the highest it’s been in over 20 years, Freddie Mac announced Thursday. This announcement comes in the wake of home prices reportedly moving up 0.8 percent in June after over a year of slowing. In a statement on…",
+      "url": "https://thehill.com/business/4157952-thirty-year-fixed-rate-mortgage-rate-surges-to-highest-in-two-decades/",
+      "urlToImage": "https://thehill.com/wp-content/uploads/sites/2/2023/04/GettyImages-1362129151-e1690483778507.jpg?w=1280",
+      "publishedAt": "2023-08-18T01:49:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The challenge for automakers is making EVs actually affordable: Fmr. Ford CEO Mark Fields - CNBC Television",
+      "description": "Hosted by Brian Sullivan, “Last Call” is a fast-paced, entertaining business show that explores the intersection of money, culture and policy. Tune in Monday...",
+      "url": "https://www.youtube.com/watch?v=Nqqxx7ubXDU",
+      "urlToImage": "https://i.ytimg.com/vi/Nqqxx7ubXDU/maxresdefault.jpg",
+      "publishedAt": "2023-08-18T00:52:14Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Honolulu Civil Beat" },
+      "author": "Kirstin Downey",
+      "title": "Maui Red Cross Shelters Closing As Displaced Residents Move To Hotels - Honolulu Civil Beat",
+      "description": "Officials said Thursday they were confident that they had capacity to meet the need.",
+      "url": "http://www.civilbeat.org/2023/08/maui-red-cross-shelters-closing-as-displaced-residents-move-to-hotels/",
+      "urlToImage": "https://d1l18ops95qbzp.cloudfront.net/wp-content/2023/08/13143908/230813-kf-Maui-Fire-121.jpg",
+      "publishedAt": "2023-08-18T00:20:25Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Crypto Briefing" },
+      "author": "Diego Almada Lopez",
+      "title": "Shiba Inu Botches Shibarium Launch, $2.5M in Crypto Stuck - Crypto Briefing",
+      "description": "Shibarium's much-anticipated launch had a rocky start when bridging issues left $2.5 million worth of assets trapped on-chain.",
+      "url": "https://cryptobriefing.com/shiba-bridge-shiubarium-funds-stuck/",
+      "urlToImage": "https://static.cryptobriefing.com/wp-content/uploads/2023/08/17194717/02379-768x384.png",
+      "publishedAt": "2023-08-18T00:14:08Z",
+      "content": "Key Takeaways\r\n<ul><li>Shibarium launch faced challenges as bridging issues resulted in $2.5 million worth of assets being trapped on-chain.</li><li>The project's lead developer claims 'funds are saf… [+2613 chars]"
+    },
+    {
+      "source": { "id": null, "name": "MarketWatch" },
+      "author": "Joy Wiltermuth",
+      "title": "Treasury market returns are negative again. Why this time for bonds looks different than 2022. - MarketWatch",
+      "description": "Yield on 10-year Treasury hits highest since November 2007",
+      "url": "https://www.marketwatch.com/story/treasury-market-returns-are-negative-again-why-this-time-for-bonds-looks-different-than-2022-aaf9a032",
+      "urlToImage": "https://images.mktw.net/im-837970/social",
+      "publishedAt": "2023-08-18T00:05:00Z",
+      "content": "While negative returns might stir bad memories of last years shocking losses for bonds, stocks and nearly everything else, investors holding Treasury debt issued at 2023s higher yields might want to … [+3672 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Yuka Hayashi",
+      "title": "U.S. Plans New Tariffs on Food-Can Metal From China, Germany and Canada - The Wall Street Journal",
+      "description": "Levies announced in response to dumping allegations could raise canned food prices, industry group says",
+      "url": "https://www.wsj.com/economy/trade/u-s-plans-new-tariffs-on-food-can-metal-from-china-germany-and-canada-2939092a",
+      "urlToImage": "https://images.wsj.net/im-837128/social",
+      "publishedAt": "2023-08-17T23:57:00Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Bring Me The News" },
+      "author": "Adam Uren",
+      "title": "Porsche dealership the latest to be hit by car thieves in Golden Valley - Bring Me The News",
+      "description": "It comes two days after seven vehicles were taken from a Morrie's reconditioning center.",
+      "url": "https://bringmethenews.com/minnesota-news/porsche-dealership-the-latest-to-be-hit-by-car-thieves-in-golden-valley",
+      "urlToImage": "https://bringmethenews.com/.image/ar_1.91%2Cc_fill%2Ccs_srgb%2Cfl_progressive%2Cg_faces:center%2Cq_auto:good%2Cw_1200/MjAwMTUzOTQxNjQyNTg1MTk2/screen-shot-2023-08-17-at-65208-pm.jpg",
+      "publishedAt": "2023-08-17T23:53:39Z",
+      "content": "A Porsche auto dealership has become the latest vehicle business to be targeted by thieves in Golden Valley this week.\r\nGolden Valley PD says it received a report of a theft of a black Porsche 911, w… [+1525 chars]"
+    },
+    {
+      "source": { "id": null, "name": "Yahoo Entertainment" },
+      "author": "Reuters",
+      "title": "Texas grid operator issues voluntary power conservation call due to heatwave - Yahoo News",
+      "description": "The Electric Reliability Council Of Texas (ERCOT), which  operates the grid for more than 26 million customers which use  about 90% of the state's power load...",
+      "url": "https://news.yahoo.com/ercot-issues-voluntary-power-conservation-164730121.html",
+      "urlToImage": "https://media.zenfs.com/en/reuters.com/d28a7ef98fdaadebcc44a559e9395ef7",
+      "publishedAt": "2023-08-17T23:45:43Z",
+      "content": "(Reuters) -The main grid operator in Texas said on Thursday it had engaged its emergency system after electricity reserves dropped below the critical 3,000 MW level due to increased power usage amid … [+1753 chars]"
+    },
+    {
+      "source": { "id": null, "name": "YouTube" },
+      "author": null,
+      "title": "The key word is 'patience' in this market, says Jim Cramer - CNBC Television",
+      "description": "'Mad Money' host Jim Cramer talks how to navigate current market conditions after the rough week of trading.",
+      "url": "https://www.youtube.com/watch?v=zC2NO1c5cd0",
+      "urlToImage": "https://i.ytimg.com/vi/zC2NO1c5cd0/maxresdefault.jpg",
+      "publishedAt": "2023-08-17T23:23:16Z",
+      "content": null
+    },
+    {
+      "source": { "id": null, "name": "Pacbiztimes.com" },
+      "author": "Jorge Mercado",
+      "title": "AppFolio lays off 9% of workforce in second round of 2023 cuts - Pacific Coast Business Times",
+      "description": "AppFolio CEO Shane Trigg announced that the company would be firing 9% of its workforce, or 149 employees, effectively immediately, he wrote in a letter sent out to employees on Aug. 17. The letter, filed with the U.S. Securities and Exchanges Commission, sai…",
+      "url": "https://www.pacbiztimes.com/2023/08/17/appfolio-lays-off-9-of-workforce-in-second-round-of-2023-cuts/",
+      "urlToImage": "https://www.pacbiztimes.com/wp-content/uploads/2021/01/AppFolio-HQ.jpg",
+      "publishedAt": "2023-08-17T23:11:33Z",
+      "content": "ByJorge Mercado\r\nThursday, August 17th, 2023\r\nAppFolio CEO Shane Trigg announced that the company would be firing 9% of its workforce, or 149 employees, effectively immediately, he wrote in a letter … [+1526 chars]"
+    }
+  ]
+}
